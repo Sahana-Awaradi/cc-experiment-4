@@ -220,4 +220,4 @@ The experiment demonstrated Kubernetes resource allocation, pod scheduling, Depl
 
 ## Author
 
-**Vandana A M**
+**Sahana Awaradi**
